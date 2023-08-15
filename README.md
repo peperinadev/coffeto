@@ -15,5 +15,5 @@ Si queres dejarme algun comentario, sugerencia o incluso tu web para poder anali
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peperinadev/)
-[![linkedin](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@peperinadev/)
+[![linkedin](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@peperinadev/)
 
