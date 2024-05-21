@@ -1,7 +1,7 @@
 
 # Coffetto
 
-Este repositorio está vinculado a esta lista de reproduccion: 
+Este repositorio está vinculado a esta lista de reproduccion: https://www.youtube.com/watch?v=IdxUUSadq-E&list=PLpId4QDY5hGwXIiLBZy67JZXAyCBRwCNR&ab_channel=PeperinaDev
 
 Es un curso de HTML y CSS de @peperinadev donde aprendemos a hacer esta web como una de las primeras. 
 Los invito a ver los videos para entender mejor el codigo y a clonarse el respositorio
